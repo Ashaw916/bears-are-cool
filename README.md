@@ -1,2 +1,2 @@
 # bears-are-cool
-a webdiste about bears
+a website about bears
